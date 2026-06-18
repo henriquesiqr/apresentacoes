@@ -9,7 +9,7 @@ slides:
 
 ## Quem sou eu?
 
-![foto]()
+![foto](https://github.com/henriquesiqr/apresentacoes/blob/main/slides/assets/foto%20italia.jpeg)
 
 <!--s-->
 
