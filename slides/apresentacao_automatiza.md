@@ -42,27 +42,27 @@ slides:
 
 <!--s-->
 
-## <span style="position:relative; top:-40px;">O problema</span>
+<h2>O problema</h2>
 
-<div style="text-align:center; margin-top:-20px;">
-    <img src="assets/site_da.png" width="50%">
+<div style="text-align:center;">
+    <img src="assets/site_da.png" width="60%">
 </div>
 
-<div style="display:flex; margin-top:40px;">
+<div style="display:flex; justify-content:center; margin-top:20px;">
 
-<div style="width:50%; text-align:center;">
+<div style="width:45%; text-align:center;">
 
-### Situação 1
+<h3>Antes</h3>
 
-<img src="assets/insumos_antigos.png" width="45%">
+<img src="assets/insumos_antigos.png" width="30%">
 
 </div>
 
-<div style="width:50%; text-align:center;">
+<div style="width:45%; text-align:center;">
 
-### Situação 2
+<h3>Hoje</h3>
 
-<img src="assets/insumos_novos.png" width="45%">
+<img src="assets/insumos_novos.png" width="30%">
 
 </div>
 
@@ -70,34 +70,46 @@ slides:
 
 <!--s-->
 
-<h2 style="margin-top:-70px;">Resultados e produtos</h2>
+<h2 style="margin-top:-40px;">Resultados e produtos</h2>
 
-<div style="display:flex; margin-top:30px;">
+<div style="display:flex; justify-content:center;">
 
-<div style="width:45%;">
+<div style="width:42%;">
 
-<h3>Antes</h3>
+<h3 style="font-size:0.8em;">Antes</h3>
 
-- Entre 3 e 5 dias de dedicação
-- Tarefa repetitiva e sujeita a erros
-- 65 planilhas
-
-</div>
-
-<div style="width:45%;">
-
-<h3>Depois</h3>
-
-- 4 horas para rodar a rotina automaticamente
-- Erros reduzidos e fáceis de rastrear
-- Um repositório no GitHub
+<ul style="font-size:0.75em;">
+<li>Entre 3 e 5 dias de dedicação</li>
+<li>Tarefa repetitiva e sujeita a erros</li>
+<li>65 planilhas</li>
+</ul>
 
 </div>
 
+<div style="width:42%;">
+
+<h3 style="font-size:0.8em;">Depois</h3>
+
+<ul style="font-size:0.75em;">
+<li>4 horas para rodar a rotina automaticamente</li>
+<li>Erros reduzidos e fáceis de rastrear</li>
+<li>Repositório no GitHub e painel</li>
+</ul>
+
 </div>
 
-<div style="text-align:center; margin-top:40px;">
-    <img src="assets/painel.png" width="400">
+</div>
+
+<div style="display:flex; justify-content:center; margin-top:15px;">
+
+<div style="width:45%; text-align:center;">
+    <img src="assets/painel.png" width="70%">
+</div>
+
+<div style="width:45%; text-align:center;">
+    <img src="assets/repo_da.png" width="70%">
+</div>
+
 </div>
 
 <!--s-->
