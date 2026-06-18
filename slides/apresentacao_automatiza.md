@@ -9,16 +9,36 @@ slides:
 
 ## Quem sou eu?
 
-![foto](slides/assets/foto_italia.jpg)
+<img src="assets/foto_italia.jpeg" width="300">
 
 <!--s-->
 
 ## Minha trajetória
 
-- Henrique, servidor público a 3 anos, trajetória iniciou no BDMG em 2020
-- Analista Criminal
-- Observatório de Segurança Pública, Sejusp
-- Responsável pela divulgação dos dados oficiais de segurança pública no estado / Análise Criminal
+<img src="assets/timeline-Photoroom.png" width="1600">
+
+<!--s-->
+
+<h2 style="margin-top:-80px;">Meu trabalho atual</h2>
+
+<div style="display:flex; align-items:center;">
+
+<div style="width:50%; text-align:center;">
+
+<img src="assets/observatorio.png" width="500">
+
+</div>
+
+<div style="width:50%;">
+
+<ul>
+<li>Análise Criminal</li>
+<li>Divulgação dos dados oficiais de segurança pública no Estado</li>
+</ul>
+
+</div>
+
+</div>
 
 <!--s-->
 
