@@ -3,7 +3,7 @@ index:
   title: Apresentações
 
 slides:
-  theme: solarized
+  theme: black
   charset: utf-8
   separator: <!--s-->
   separator_vertical: <!--v-->
