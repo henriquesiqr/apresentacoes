@@ -25,7 +25,7 @@ slides:
 
 <div style="width:50%; text-align:center;">
 
-<img src="assets/observatorio.png" width="500">
+<img src="assets/logo-observatório-alternativa.png" width="500">
 
 </div>
 
@@ -42,66 +42,131 @@ slides:
 
 <!--s-->
 
-## O problema
+## <span style="position:relative; top:-40px;">O problema</span>
 
-- Publicação dos dados abertos
-- Armazém, VBA, Excel
-- BISP, SQL, Python
+<div style="text-align:center; margin-top:-20px;">
+    <img src="assets/site_da.png" width="50%">
+</div>
+
+<div style="display:flex; margin-top:40px;">
+
+<div style="width:50%; text-align:center;">
+
+### Situação 1
+
+<img src="assets/insumos_antigos.png" width="45%">
+
+</div>
+
+<div style="width:50%; text-align:center;">
+
+### Situação 2
+
+<img src="assets/insumos_novos.png" width="45%">
+
+</div>
+
+</div>
 
 <!--s-->
 
-## Resultados e produtos
+<h2 style="margin-top:-70px;">Resultados e produtos</h2>
 
-- "Métricas"
-- Painel
-- Repo no GitHub
+<div style="display:flex; margin-top:30px;">
+
+<div style="width:45%;">
+
+<h3>Antes</h3>
+
+- Entre 3 e 5 dias de dedicação
+- Tarefa repetitiva e sujeita a erros
+- 65 planilhas
+
+</div>
+
+<div style="width:45%;">
+
+<h3>Depois</h3>
+
+- 4 horas para rodar a rotina automaticamente
+- Erros reduzidos e fáceis de rastrear
+- Um repositório no GitHub
+
+</div>
+
+</div>
+
+<div style="text-align:center; margin-top:40px;">
+    <img src="assets/painel.png" width="400">
+</div>
 
 <!--s-->
 
 ## Por que eu escolhi Python?
-
-- Linguagem de programação mais versátil e mais "natural"
-- Amplamente utilizada para análise de dados
-- Equipe estava incipiente em Python
-
-<!--s-->
-
-## O que eu percebi na minha jornada
-
-- Não é fácil, mas também não é impossível
-- IA ajuda muito e permite construir coisas muito além do nosso conhecimento, mas é necessário aprender a linguagem para que funcione e seja manutenível
-- Um oceano de possibilidades, mas um mar de dificuldade para escolher.
-- Ferramentas para quem quer começar: Roadmap, RealPython, W3, Curso SPLOR
-
-<!--s-->
 
 <div style="
 background:#1e1e1e;
 padding:20px;
 border-radius:8px;
 font-family:Consolas;
+font-size:0.8em;
 text-align:left;
 ">
 
-<span style="color:#569CD6">import</span>
-<span style="color:#9CDCFE">pandas</span>
-<span style="color:#569CD6">as</span>
-<span style="color:#9CDCFE">pd</span>
+<span style="color:#C586C0">motivos</span> = [
+
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#CE9178">"automação"</span>,
+
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#CE9178">"análise de dados"</span>,
+
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#CE9178">"linguagem versátil"</span>,
+
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#CE9178">"linguagem mais natural"</span>,
+
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#CE9178">"equipe incipiente"</span>
+
+]
 
 </div>
 
 <!--s-->
 
-<div style="
-background:#282a36;
-padding:20px;
-border-radius:10px;
-font-family:Consolas;
-">
+## Lições da minha jornada
 
-$ python main.py
+- Não é fácil, mas também não é impossível
+- Sobre o uso de IA
 
-[17/06/2026 14:32]
-Base processada com sucesso
+<img src="assets/regua_ft.png" width="600">
+
+<!--v-->
+
+## Lições da minha jornada
+
+- Um oceano de possibilidades
+
+<img src="assets/escolha.png" width="400">
+
+<!--s-->
+
+## O que eu recomendo
+
+- Mão na massa
+- Comunidades
+- Ferramentas que uso/indico
+
+<div style="margin-top:40px; text-align:center;">
+
+<img src="assets/trilha_dev.png" width="90" style="margin:10px;">
+<img src="assets/roadmap.png" width="90" style="margin:10px;">
+<img src="assets/w3.png" width="90" style="margin:10px;">
+<img src="assets/real_python.png" width="90" style="margin:10px;">
 
 </div>
+
+<!--s-->
+
+```python
+print(Obrigado!)
+```
+
+<img src="assets/qrcode.png" width="400">
