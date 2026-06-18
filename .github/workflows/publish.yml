@@ -1,4 +1,4 @@
-name: Publish Slides
+name: Deploy Mkslides
 
 on:
   push:
@@ -6,23 +6,26 @@ on:
       - main
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
-  publish:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.13"
 
-      - name: Install Poetry
-        uses: snok/install-poetry@v1
+      - uses: snok/install-poetry@v1
 
       - name: Install dependencies
         run: poetry install
@@ -30,5 +33,22 @@ jobs:
       - name: Build slides
         run: poetry run task build
 
-      - name: Publish to GitHub Pages
-        run: poetry run task gh-pages
+      - name: Remove reveal git folder
+        run: rm -rf site/mkslides-assets/reveal-js/.git
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
