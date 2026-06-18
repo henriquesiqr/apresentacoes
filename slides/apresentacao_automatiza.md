@@ -7,21 +7,22 @@ slides:
 
 <!--s-->
 
-## Título 1
+## Quem sou eu?
 
-- Henrique, servidor público a 3 anos, trajetória iniciou no BDMG em 2020
-- Analista Criminal
+![foto]()
 
 <!--s-->
 
-## Título 2
+## Minha trajetória
 
+- Henrique, servidor público a 3 anos, trajetória iniciou no BDMG em 2020
+- Analista Criminal
 - Observatório de Segurança Pública, Sejusp
 - Responsável pela divulgação dos dados oficiais de segurança pública no estado / Análise Criminal
 
 <!--s-->
 
-## Título 3
+## O problema
 
 - Publicação dos dados abertos
 - Armazém, VBA, Excel
@@ -29,7 +30,7 @@ slides:
 
 <!--s-->
 
-## Título 4
+## Resultados e produtos
 
 - "Métricas"
 - Painel
@@ -37,28 +38,17 @@ slides:
 
 <!--s-->
 
-## Título 5
+## Por que eu escolhi Python?
 
-- "Métricas"
-- Painel
-- Repo no GitHub
+- Linguagem de programação mais versátil e mais "natural"
+- Amplamente utilizada para análise de dados
+- Equipe estava incipiente em Python
 
 <!--s-->
 
-## Título 6
+## O que eu percebi na minha jornada
 
 - Não é fácil, mas também não é impossível
 - IA ajuda muito e permite construir coisas muito além do nosso conhecimento, mas é necessário aprender a linguagem para que funcione e seja manutenível
 - Um oceano de possibilidades, mas um mar de dificuldade para escolher.
 - Ferramentas para quem quer começar: Roadmap, RealPython, W3, Curso SPLOR
-
-<!--s-->
-
-## Desafios e reflexões
-
-* Ainda existe um fosso tecnológico no governo.
-* Não é facil, tampouco trivial.
-* Talvez, não seja para todos mesmo.
-* Ser transformação vale a pena.
-
-<!--s-->
