@@ -3,7 +3,7 @@ index:
   title: Apresentações
 
 slides:
-  theme: black
+  theme: dracula
   charset: utf-8
   separator: <!--s-->
   separator_vertical: <!--v-->

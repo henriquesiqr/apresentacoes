@@ -7,19 +7,36 @@ slides:
 
 <!--s-->
 
-## Quem sou eu?
+<h2 style="
+margin-top:-20px;
+font-size:1.3em;
+">
+Quem sou eu?
+</h2>
 
 <img src="assets/foto_italia.jpeg" width="300">
 
-<!--s-->
-
-## Minha trajetória
-
-<img src="assets/timeline-Photoroom.png" width="1600">
+🦊🔵⚽🏓📚📰👨‍🍳🗺️🗞️💻🤖
 
 <!--s-->
 
-<h2 style="margin-top:-80px;">Meu trabalho atual</h2>
+<h2 style="
+margin-top:-20px;
+font-size:1.3em;
+">
+Minha trajetória
+</h2>
+
+<img src="assets/linha_do_tempo.png" width="1600">
+
+<!--s-->
+
+<h2 style="
+margin-top:-20px;
+font-size:1.3em;
+">
+Meu trabalho atual
+</h2>
 
 <div style="display:flex; align-items:center;">
 
@@ -29,7 +46,7 @@ slides:
 
 </div>
 
-<div style="width:50%;">
+<div style="width:50%; font-size:0.6em;">
 
 <ul>
 <li>Análise Criminal</li>
@@ -42,7 +59,12 @@ slides:
 
 <!--s-->
 
-<h2>O problema</h2>
+<h2 style="
+margin-top:-20px;
+font-size:1.3em;
+">
+O problema
+</h2>
 
 <div style="text-align:center;">
     <img src="assets/site_da.png" width="60%">
@@ -70,7 +92,12 @@ slides:
 
 <!--s-->
 
-<h2 style="margin-top:-40px;">Resultados e produtos</h2>
+<h2 style="
+margin-top:-20px;
+font-size:1.3em;
+">
+Resultados e produtos
+</h2>
 
 <div style="display:flex; justify-content:center;">
 
@@ -114,7 +141,12 @@ slides:
 
 <!--s-->
 
-## Por que eu escolhi Python?
+<h2 style="
+margin-top:-20px;
+font-size:1.3em;
+">
+Por que eu escolhi Python?
+</h2>
 
 <div style="
 background:#1e1e1e;
@@ -143,7 +175,12 @@ text-align:left;
 
 <!--s-->
 
-## Lições da minha jornada
+<h2 style="
+margin-top:-20px;
+font-size:1.3em;
+">
+Lições da minha jornada
+</h2>
 
 - Não é fácil, mas também não é impossível
 - Sobre o uso de IA
@@ -152,7 +189,12 @@ text-align:left;
 
 <!--v-->
 
-## Lições da minha jornada
+<h2 style="
+margin-top:-20px;
+font-size:1.3em;
+">
+Lições da minha jornada
+</h2>
 
 - Um oceano de possibilidades
 
@@ -160,7 +202,12 @@ text-align:left;
 
 <!--s-->
 
-## O que eu recomendo
+<h2 style="
+margin-top:-20px;
+font-size:1.3em;
+">
+O que eu recomendo
+</h2>
 
 - Mão na massa
 - Comunidades
@@ -181,4 +228,4 @@ text-align:left;
 print(Obrigado!)
 ```
 
-<img src="assets/qrcode.png" width="400">
+<img src="assets/qrcode.png" width="200">
