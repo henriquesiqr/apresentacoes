@@ -225,7 +225,7 @@ O que eu recomendo
 <!--s-->
 
 ```python
-print(Obrigado!)
+print("Obrigado!")
 ```
 
 <img src="assets/qrcode.png" width="200">
