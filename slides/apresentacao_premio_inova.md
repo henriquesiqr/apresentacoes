@@ -3,27 +3,34 @@ slides:
   title: Publicação Automatizada de Dados Abertos
 ---
 
-## De cinco dias de trabalho manual a seis horas de trabalho automatizado
+# Publicação Automatizada de Dados Abertos
+
+#### De cinco dias de trabalho manual a seis horas de trabalho automatizado
 
 <!--s-->
 
-“A dificuldade não está tanto em desenvolver novas ideias, mas em escapar das antigas.”
+# Contexto
 
-Toda a publicação mensal de transparência ativa feita pelo Observatório de Segurança Pública ocupa uma semana de trabalho em tarefas manuais e sujeitas a erros. Como otimizar a rotina e mitigar os riscos?
+<img src="assets/logo-observatório-alternativa.png" width="500">
 
-<!--s-->
-
-O Observatório é o setor de divulgação de dados oficiais de segurança pública.
-
-Como era feito?
-
-Imagem com o fluxo
+[...] tem como competência a *divulgação de dados, informações* e conhecimentos de criminalidade, violência e outros eventos e atuações de segurança pública [...]
 
 <!--s-->
 
-Fluxos frente a frente
 
-Queries SQL, Python, GitHub
+“A verdadeira dificuldade não está tanto em desenvolver novas ideias, mas em escapar das antigas.”
+
+<!--s-->
+
+#### Como era o trabalho manual?
+
+<img src="assets/fluxo_dados_abertos_antigo.png" width="900">
+
+<!--s-->
+
+#### Como ficou a tarefa automatizada?
+
+<img src="assets/fluxo_dados_abertos_novo.png" width="900">
 
 <!--s-->
 
@@ -31,8 +38,7 @@ Bisp -> Iniciativa premiada, nova estrutura e ferramentas disponíveis
 
 <!--s-->
 
-Métricas colocadas na inscrição.
-Resultados -> reportagens (maior confiabilidade)
+<img src="assets/quadro_de_indicadores.png" width="999">
 
 <!--s-->
 

@@ -1,0 +1,38 @@
+Slide 1
+- Capa
+
+Slide 2
+Norte: Qual problema decidi atacar (usar frase de efeito; “pé na porta”)
+Solução:
+- Logo Observatório
+- Contexto:
+    Toda a publicação mensal de transparência ativa feita pelo Observatório de Segurança Pública ocupa uma semana de trabalho em tarefas manuais e sujeitas a erros. Como otimizar a rotina e mitigar os riscos?
+- Frase de efeito
+
+Slide 3
+Norte: Explicar o problema (Como era antes)
+Solução:
+
+Slide 4
+Norte: Explicar a solução (o que foi construído; parte mais técnica)
+Solução:
+
+Slide 5
+Norte: Utilização da Bisp (citar iniciativa como vencedora de prêmios de inovação)
+Solução: 
+
+Slide 6
+Norte: Resultados e métricas. Trazer reportagens de jornais
+Solução: Métricas colocadas na inscrição.
+
+Slide 7
+Norte: Replicabilidade
+Solução:
+
+Slide 8
+Norte: Trazer o GH como “face visível”, processo documentado, metodologia na mão de todos
+Solução:
+
+Slide 9
+Norte: Reflexão sobre inovação
+Solução:
