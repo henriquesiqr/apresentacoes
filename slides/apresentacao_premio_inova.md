@@ -1,6 +1,10 @@
 ---
 slides:
   title: Publicação Automatizada de Dados Abertos
+revealjs:
+  width: 1280
+  height: 720
+  margin: 0.02
 ---
 
 # Publicação Automatizada de Dados Abertos
@@ -24,21 +28,21 @@ slides:
 
 #### Como era o trabalho manual?
 
-<img src="assets/fluxo_dados_abertos_antigo.png" width="900">
+<img src="assets/fluxo_dados_abertos_antigo.png" class="r-stretch">
 
 <!--s-->
 
 #### Como ficou a tarefa automatizada?
 
-<img src="assets/fluxo_dados_abertos_novo.png" width="900">
+<img src="assets/fluxo_dados_abertos_novo.png" class="r-stretch">
 
 <!--s-->
 
-<img src="assets/quadro_de_indicadores.png" width="999">
+<img src="assets/quadro_de_indicadores.png" class="r-stretch">
 
 <!--s-->
 
-<img src="assets/github.jpeg" width="999">
+<img src="assets/github.jpeg" class="r-stretch">
 
 <!--s-->
 
