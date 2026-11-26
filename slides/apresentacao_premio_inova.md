@@ -34,10 +34,6 @@ slides:
 
 <!--s-->
 
-Bisp -> Iniciativa premiada, nova estrutura e ferramentas disponíveis
-
-<!--s-->
-
 <img src="assets/quadro_de_indicadores.png" width="999">
 
 <!--s-->
