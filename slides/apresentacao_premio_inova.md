@@ -42,13 +42,11 @@ Bisp -> Iniciativa premiada, nova estrutura e ferramentas disponíveis
 
 <!--s-->
 
-Governança e replicabilidade
-(GitHub)
-Falar de datalake e citar exemplo do IMA
+<img src="assets/github.jpeg" width="999">
 
 <!--s-->
 
-A inovação não precisa começar com uma grande ideia. Pode começar com uma pergunta simples: por que continuamos fazendo isso dessa maneira?
+"A inovação não precisa começar com uma grande ideia. Pode começar com uma pergunta simples: por que continuamos fazendo isso dessa maneira?"
 
 <!--s-->
 

@@ -27,7 +27,9 @@ Solução: Métricas colocadas na inscrição.
 
 Slide 7
 Norte: Replicabilidade
-Solução:
+Solução: Governança e replicabilidade
+(GitHub)
+Falar de datalake e citar exemplo do IMA
 
 Slide 8
 Norte: Trazer o GH como “face visível”, processo documentado, metodologia na mão de todos
