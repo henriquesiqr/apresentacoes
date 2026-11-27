@@ -94,14 +94,14 @@ revealjs:
 
 <table class="indicadores">
 <thead>
-<tr><th>Indicador</th><th>Antes</th><th>Depois</th></tr>
+<tr><th>Métricas</th><th>Antes</th><th>Depois</th></tr>
 </thead>
 <tbody>
-<tr><td>Tempo de trabalho manual na rotina mensal</td><td>40h mensais</td><td>Cerca de 6h de acompanhamento humano (conferência)</td></tr>
-<tr><td>Tempo total de execução</td><td>40h mensais manuais</td><td>Cerca de 6h de execução automatizada e 6h de conferência manual</td></tr>
-<tr><td>Etapas manuais</td><td>14 etapas</td><td>Eliminadas/substituídas pela automação</td></tr>
-<tr><td>Bases automatizadas</td><td>—</td><td>Aproximadamente 40</td></tr>
-<tr><td>Scripts Python desenvolvidos</td><td>—</td><td>Aproximadamente 70</td></tr>
+<tr><td>Tempo de trabalho manual na rotina mensal</td><td>40h mensais</td><td>Cerca de 2h de conferência</td></tr>
+<tr><td>Tempo total de execução</td><td>40h mensais manuais</td><td>Cerca de 6h de execução automatizada e 2h de conferência manual</td></tr>
+<tr><td>Etapas manuais</td><td>14 etapas</td><td>Somente a conferência (com logs)</td></tr>
+<tr><td>Risco de erros</td><td>Alto</td><td>Baixo</td></tr>
+<tr><td>Transparência e governança</td><td>Baixa</td><td>Alta</td></tr>
 </tbody>
 </table>
 
